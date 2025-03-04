@@ -1,3 +1,4 @@
+#################### original pyproject.toml
 [project]
 name = "13-advanced-retrieval"
 version = "0.1.0"
@@ -12,8 +13,4 @@ dependencies = [
     "langchain-openai>=0.3.7",
     "qdrant-client>=1.13.2",
     "rank-bm25>=0.2.2",
-    #addedforeval
-    "ragas",
-    "rapidfuzz",
-    "langsmith",
 ]
