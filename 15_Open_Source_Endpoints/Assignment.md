@@ -1,5 +1,5 @@
 
-# Note book link
+# Notebook link
 https://github.com/drewgenai/AIE5/blob/main/15_Open_Source_Endpoints/Assignment_Open_Source_RAG_Leveraging_Hugging_Face_Endpoints_through_LangChain.ipynb
 
 # Hugging face application leveraging inference endpoints link
