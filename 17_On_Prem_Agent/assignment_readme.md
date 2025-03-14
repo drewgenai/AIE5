@@ -8,7 +8,7 @@ https://github.com/drewgenai/AIE5/blob/main/17_On_Prem_Agent/assignment_test_oll
 
 https://github.com/drewgenai/AIE5/blob/main/17_On_Prem_Agent/assignment_qdrant_setup.ipynb
 
-# Link to modified graph wiht RAG  
+# Link to modified graph with RAG  
 https://github.com/drewgenai/session17-Ollama-Deep-Research-Modified/blob/main/src/assistant/graph.py
 
 
